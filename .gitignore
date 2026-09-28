@@ -1,0 +1,13 @@
+# Compilados de Java (se generan al compilar, no se suben)
+*.class
+bin/
+out/
+
+# Metadatos de Eclipse (cada uno genera los suyos al importar)
+.settings/
+.classpath
+.project
+
+# Windows
+Thumbs.db
+desktop.ini
